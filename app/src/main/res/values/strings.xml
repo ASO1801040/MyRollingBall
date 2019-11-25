@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyRollingBall</string>
+    <string name="judgeDefault">がんばれ！</string>
+    <string name="resetText">Reset!</string>
+</resources>
